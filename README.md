@@ -1,4 +1,4 @@
-# Psorosis
+# Impact of Climate Change-Related Heat Stress on Psoriasis and Psoriatic Arthritis Patient Cohort Growth in Urban Areas
 Impact of Climate Change-Related Heat Stress on Psoriasis and Psoriatic Arthritis Patient Cohort Growth in Urban Areas
 
 Abstract: This research overview examines the potential link between climate change—specifically heat stress in urban areas—and the growth of patient cohorts diagnosed with psoriasis and psoriatic arthritis. By analyzing retrospective clinical data alongside urban climate trends, the study explores whether extreme heat events may exacerbate inflammatory processes, contributing to increased disease incidence and severity.
